@@ -13,7 +13,7 @@
 ### Objetivos
 
 - Aprender a implementar un personaje que se mueva en un entorno 3D
-- Que aprendan a ponerse objetivos realistas que puedan cumplir en un cuatrimestre!
+- Aprender a ponerse objetivos realistas que puedan cumplir en un cuatrimestre!
 
 Recuerden que, por lo general, la solución más simple es la mejor.
 
@@ -23,23 +23,23 @@ Recuerden que, por lo general, la solución más simple es la mejor.
 
 ### Código
 
-- Este cuatrimestre ya no le voy a dar tanta importancia a cada línea de código que programaron. Para eso tuvimos el primer cuatrimestre.
+- Ya no le voy a dar tanta importancia a cada línea de código que programaron. Para eso tuvimos el primer cuatrimestre.
 - En cambio, ahora van a aplicar lo que aprendieron en un ejemplo de la vida real. Van a resolver los problemas con lo que ya saben.
 - No me interesa mucho la forma en la que lleguen a las soluciones. Pero tengan una mínima justificación para cuando les pregunte por que hicieron algo de una manera y no de otra.
-- Si no mantienen un mínimo orden de su código o no respetan las normas de performance que les conté, podrían sufrirlo hacia el final del proyecto! No creo que hayan problemas muy graves de esta índole, pero ténganlo presente.
+- Si no mantienen un mínimo orden de su código o no respetan las normas de performance que les enseñe, podrían sufrirlo hacia el final del proyecto! No creo que hayan muchos problemas de este estilo, pero ténganlo presente.
 
 ### Assets
 
-- Mi idea es que no compren ningún asset este cuatrimestre
-- Podrían comprar assets de sistemas de FPS, inventario, enemigos, etc. que les resuelva mucho de los TPs que van a hacer este cuatrimestre. Pero no se los recomiendo porque:
+- Mi idea es que no compren ningún asset.
+- Podrían comprar assets de sistemas de FPS, inventario, enemigos, etc. que les resuelva mucho de los TPs que van a hacer. Pero no se los recomiendo porque:
 	- No aprenderían mucho de lo que vamos a ver
 	- Gastarían plata en algo que aun no saben si van a seguir usando
 	- Tendrían que invertir tiempo aprendiendo un nuevo sistema. Y capaz les termine llevando mas tiempo porque los sistemas que vamos a implementar son sencillos.
-- Si igual quieren comprar algún asset, seria mejor que vayan por las cosas que no vamos a ver en la materia. O sea, contenido: modelos, texturas, sonidos, etc.
+- Si igual quieren comprar alguno, sería mejor que vayan por las cosas que no vamos a ver en la materia. O sea, contenido: modelos, texturas, sonidos, etc.
 
 ### Idea del juego
 
-En base a sus votos, elegí que hagamos un juego con éstas características:
+En base a sus votos, elegí un juego con éstas características:
 
 - FPS (con disparos de armas de fuego o algún tipo de proyectil)
 - Terror de Supervivencia
@@ -47,7 +47,7 @@ En base a sus votos, elegí que hagamos un juego con éstas características:
 - Equipamiento
 - Quests (si llegamos con el tiempo)
 
-Por lo que durante el cuatrimestre me van a ver hacer un juego que con una mezcla extraña. Juntaré los elementos básicos de:
+Por lo que durante el cuatrimestre me van a ver hacer un juego con una mezcla de:
 
 - Dishonored / DeusEx
 - Resident Evil / Silent Hill
@@ -64,7 +64,7 @@ Si así y todo quieren implementar un RimWorld con elementos de MOBA (?) pueden 
 
 Todo lo van a resolver en un repositorio de GitHub. Tiene que haber una `tag` que se llame `tp4`. Ese commit es el que voy a corregir.
 
- Antes de la fecha limite me tienen que mandar el link a la tag `tp4` por mail a <me@diegofreijo.com>.
+Antes de la fecha limite me tienen que mandar el link a la tag `tp4` por mail a <me@diegofreijo.com>.
  
 ### Defensa
 
