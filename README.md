@@ -60,6 +60,10 @@ Si así y todo quieren implementar un RimWorld con elementos de MOBA (?) pueden 
 
 ## Entrega
 
+### Resumen
+
+En este repo van a encontrar `TEMPLATE_RESUMEN.md` para que rellenen con sus datos y lo agreguen a su repositorio.
+
 ### Código
 
 Todo lo van a resolver en un repositorio de GitHub. Tiene que haber una `tag` que se llame `tp4`. Ese commit es el que voy a corregir.
