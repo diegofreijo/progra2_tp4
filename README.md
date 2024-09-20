@@ -8,6 +8,7 @@
 | Se aprueba con         | 6                                 |
 | Fecha de entrega       | Jueves 12 de Septiembre, 23:59 hs |
 | Fecha de re-entrega    | Jueves 19 de Septiembre, 23:59 hs |
+| Fecha de re-re-entrega    | Jueves 26 de Septiembre, 23:59 hs |
 
 
 ### Objetivos
