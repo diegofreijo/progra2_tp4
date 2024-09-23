@@ -70,7 +70,14 @@ En este repo van a encontrar `TEMPLATE_RESUMEN.md` para que rellenen con sus dat
 Todo lo van a resolver en un repositorio de GitHub. Tiene que haber una `tag` que se llame `tp4`. Ese commit es el que voy a corregir.
 
 Antes de la fecha limite me tienen que mandar el link a la tag `tp4` por mail a <me@diegofreijo.com>.
- 
+
+### Escena Principal
+
+La escena que quieren que corrija debe cumplir con alguna de estas convenciones de nombre:
+
+- `Main` y está dentro de la carpeta `Scenes` en el directorio raíz del proyecto
+- `Principal` y está dentro de la carpeta `Escenas` en el directorio raíz del proyecto
+
 ### Defensa
 
 Les voy a estar mandando horarios para que cada uno se conecte y tengamos la devolución por Google Meet.
